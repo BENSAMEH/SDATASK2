@@ -1,0 +1,7 @@
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Compu\Desktop\SDA 2\Prototype\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,7 @@
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\bin\Debug\SDATASK2.exe.config
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\bin\Debug\SDATASK2.exe
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\bin\Debug\SDATASK2.pdb
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\obj\Debug\SDATASK2.csproj.AssemblyReference.cache
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\obj\Debug\SDATASK2.csproj.CoreCompileInputs.cache
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\obj\Debug\SDATASK2.exe
+C:\Users\Compu\Desktop\SDATASK2\SDATASK2\obj\Debug\SDATASK2.pdb

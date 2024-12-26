@@ -1,0 +1,7 @@
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\bin\Debug\BUILDER.exe.config
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\bin\Debug\BUILDER.exe
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\bin\Debug\BUILDER.pdb
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\obj\Debug\BUILDER.csproj.AssemblyReference.cache
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\obj\Debug\BUILDER.csproj.CoreCompileInputs.cache
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\obj\Debug\BUILDER.exe
+C:\Users\Compu\Desktop\SDA 2\BUILDER\BUILDER\obj\Debug\BUILDER.pdb

@@ -1,0 +1,7 @@
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\bin\Debug\FACTORY.exe.config
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\bin\Debug\FACTORY.exe
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\bin\Debug\FACTORY.pdb
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\obj\Debug\FACTORY.csproj.AssemblyReference.cache
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\obj\Debug\FACTORY.csproj.CoreCompileInputs.cache
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\obj\Debug\FACTORY.exe
+C:\Users\Compu\Desktop\SDA 2\FACTORY\FACTORY\obj\Debug\FACTORY.pdb
